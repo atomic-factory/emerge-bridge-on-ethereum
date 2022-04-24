@@ -1,4 +1,4 @@
-### darwinia-ethereum-relay
+### emerge-ethereum-relay
 
 ### 使用方式
 blake2b需要使用go-ethereum客户端，javascript vm 执行会得到错误的结果。
